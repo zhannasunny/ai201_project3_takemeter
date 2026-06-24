@@ -138,7 +138,7 @@ Anyway, brilliant film and highly original in its critique of male passivity."
 
 ## Rule
 The Obsession: Male Passivity post could belong to either Critique or Opinion. It makes a specific claim (the film critiques introverted male passivity rather than extroverted toxicity) and supports it with scene-specific evidence (the phone call scene, Bear's repeated failure to act). However, it uses heavy personal framing ("what I love about Obsession is...") and ends with a simple value judgment ("brilliant film"), which could suggest it is merely asserting rather than arguing.
-Decision rule: If removing the personal framing still leaves a structured claim supported by specific evidence, label it Critique. If removing the framing leaves nothing but a stance, label it Opinion.
+Decision rule: If removing the personal framing still leaves a structured claim supported by specific evidence, label it Critique. If removing the framing leaves nothing but a stance, label it Opinion. Evidence is specific enough if it references a verifiable element of the film — a scene, a structural choice, a comparison to another film. Subjective framing of that evidence doesn't disqualify it.
 
 
 # Data Collection Plan
